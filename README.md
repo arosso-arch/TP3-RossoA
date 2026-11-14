@@ -1,18 +1,26 @@
-## Getting Started
+# TP3 · Arreglos, matrices y cadenas en Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Trabajo Práctico N.º 3 de Programación (Tecnicatura en Desarrollo de Software, ICOP): ejercicios con validación de la entrada del usuario.
 
-## Folder Structure
+## Ejercicios
 
-The workspace contains two folders by default, where:
+| N.º | Tema |
+|---|---|
+| 1 | Detectar números primos en una lista de 10 números |
+| 2 | Generar y mostrar una matriz cuadrada |
+| 3 | Buscar un carácter en una cadena |
+| 4 | Diferencia entre dos fechas, validando su orden |
+| 5 | Conversión de decimal a binario |
+| 6 | Cifrado César con desplazamiento |
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologías
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java · arreglos y matrices · manejo de cadenas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Cómo ejecutarlo
 
-## Dependency Management
+Abrí la carpeta en VS Code (con el Extension Pack for Java) o en otro IDE y ejecutá la clase `Principal`, que tiene un menú para correr cada ejercicio.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autor
+
+Agustín Rosso · Tecnicatura en Desarrollo de Software, Instituto Superior ICOP
